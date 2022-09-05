@@ -43,4 +43,5 @@ https://trends.rbc.ru/trends/education/606335659a7947a191c4b092
 
 
 ## Курсы от Нетологии лучшие!!!
-https://github.com/netology-code/git-2-homeworks-fork/blob/main/img/NeuroStartUp.png
+
+!(https://github.com/netology-code/git-2-homeworks-fork/blob/main/img/NeuroStartUp.png)
